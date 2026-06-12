@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sagar 👋
 
-<!--
-**sagarsalgar/sagarsalgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student from India.
 
-Here are some ideas to get you started:
+Currently learning Java, Data Structures & Algorithms, and Software Development while building projects and strengthening my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+* Java
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Git & GitHub
+
+## 🎯 Goals
+
+* Become proficient in Java
+* Solve 300+ DSA problems
+* Build meaningful projects
+* Contribute to Open Source
+* Secure a Software Engineering Internship
+
+## 🛠️ Tech Stack
+
+Java • HTML • CSS • JavaScript • Git • GitHub
+
+## 📚 Currently Working On
+
+* Java Fundamentals
+* DSA Practice
+* Personal Projects
+
+---
+
+> "Small improvements every day lead to remarkable results over time."
